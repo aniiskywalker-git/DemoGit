@@ -1,1 +1,11 @@
 # DemoGit
+
+For the first exercise that's what was wrong
+
+git checkout main
+error: pathspec 'main' did not match any file(s) known to git
+git checkout master
+error: pathspec 'master' did not match any file(s) known to git
+
+error: refname refs/heads/README not found
+fatal: Branch rename failed
